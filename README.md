@@ -53,9 +53,6 @@ Guarda los cambios y haz push al repositorio.
 3.  Entra en el job `Saludo`.
 4.  Comprueba que aparece el mensaje:
 
-```{=html}
-<!-- -->
-```
     ¡Hola, mundo!
 
 ------------------------------------------------------------------------
