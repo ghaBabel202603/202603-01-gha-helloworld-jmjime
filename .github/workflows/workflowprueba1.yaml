@@ -1,5 +1,7 @@
 name:  HELLO WORD
-on: push
+on: 
+    - push
+    - worflow-m
 jobs:
   build:
     runs-on: ubuntu-latest
